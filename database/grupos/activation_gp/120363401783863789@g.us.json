@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Grupo teste ",
+    "groupId": "120363401783863789@g.us",
+    "x9": false,
+    "antiimg": false,
+    "antidoc": false,
+    "antilinkgp": false,
+    "antilinkhard": false,
+    "antifake": false,
+    "antiporn": false,
+    "Odelete": false,
+    "antispam": false,
+    "antinotas": true,
+    "anticatalogo": false,
+    "visuUnica": true,
+    "registrarFIGUS": false,
+    "soadm": false,
+    "listanegra": [],
+    "advertir": [],
+    "prefixos": [
+      "☆"
+    ],
+    "advertir2": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "🥷🏼",
+    "legenda_imagem": "ted",
+    "multiprefix": false,
+    "forca_ofc": [
+      {
+        "acertos": 0,
+        "erros": 0,
+        "palavra": [],
+        "escreveu": [],
+        "palavra_ofc": 0,
+        "dica": 0,
+        "tema": 0
+      }
+    ],
+    "ausentes": [],
+    "forca_inc": false,
+    "antipalavrao": {
+      "ativo": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": false,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+        "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+      }
+    ],
+    "simi1": true,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false,
+    "aluguel": true,
+    "audioAtivado": true,
+    "isativatexto": false,
+    "antivideo": false,
+    "ultimasMensagens": [],
+    "Limit_tempo": "0"
+  }
+]

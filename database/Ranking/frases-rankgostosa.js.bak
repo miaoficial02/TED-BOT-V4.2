@@ -1,0 +1,14 @@
+// settings/frases-rankgostosa.js
+
+module.exports = [
+    "Essa aí é pura atitude, sem medo de ser feliz!",
+    "Com esse estilo, arrasa corações por onde passa!",
+    "Ela é a verdadeira definição de confiança e beleza!",
+    "Com essa personalidade, não tem como não se apaixonar!",
+    "Ela ilumina qualquer ambiente, sempre com um sorriso encantador!",
+    "Não tem quem não repare quando ela chega!",
+    "Ela é a verdadeira diva do grupo, arrasando com seu charme!",
+    "Com esse visual, ela poderia ser capa de revista!",
+    "Sempre cheia de energia, não tem como ficar indiferente!",
+    "Ela tem o poder de deixar todo mundo sem palavras!"
+];

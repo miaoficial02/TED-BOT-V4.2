@@ -1,0 +1,1659 @@
+[
+  [
+    {
+      "name": "🅣🅤🅡🅜🅐 🅓🅞 🅕🅤🅝🅓🅐🅞",
+      "groupId": "120363025987415440@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": true,
+      "antifake": true,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": true,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": true,
+      "level": false,
+      "bangp": false,
+      "nsfw": true,
+      "aluguel": false
+    }
+  ],
+  [
+    {
+      "name": "☬𝚫𝐌𝐈𝐙𝚫𝐃𝚵✮𝐙𝜣𝚵𝐈𝐑𝚫☬",
+      "groupId": "120363182949866222@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "."
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "Teste ninym 3.0.0",
+      "groupId": "120363222539278966@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "#"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "🤖 𝓡𝓘𝓐𝓢-𝓑𝓞𝓣 🤖",
+      "groupId": "120363285701713539@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "!"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": true,
+      "aluguel": false,
+      "autotranscricao": true
+    }
+  ],
+  [
+    {
+      "name": "[ᴀᴄᴇʀᴠᴏ ᴅᴀꜱ ꜰɪɢᴜʀɪɴʜᴀꜱ]™️ bot",
+      "groupId": "120363293096322274@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": true,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": false
+    }
+  ],
+  [
+    {
+      "name": "༒⚡ᴇᴍʙᴀɪxᴀᴅᴏʀᴇꜱ⚡༒",
+      "groupId": "120363301980999643@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": false
+    }
+  ],
+  [
+    {
+      "name": "⏤͟͟͞͞🍹𝙲𝙷𝙰𝚃 𝙳𝙰𝚂  𝙰𝙼𝙸𝚉𝙰𝙳𝙴𝚂⚘࿆",
+      "groupId": "120363315785982551@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": true,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "."
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "—͟͟͞͞ˢˣᏴᏞᎪᏟᏦ ᎠᎪᎡᏦ 🇹🇷",
+      "groupId": "120363336941496607@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "#"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": true,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": false
+    }
+  ],
+  [
+    {
+      "name": "Bot",
+      "groupId": "120363337987933646@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "!"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": false
+    }
+  ],
+  [
+    {
+      "name": "Teste bot",
+      "groupId": "120363344893348457@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "!"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": false
+    }
+  ],
+  [
+    {
+      "name": "𝗧𝗘𝗗 𝗕𝗢𝗧 ᵛ³ • [ ᴄʜᴀᴛ ᴏғɪᴄɪᴀʟ ] 🎅",
+      "groupId": "120363347895399590@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "Teste",
+      "groupId": "120363351175254484@g.us",
+      "x9": false,
+      "antiimg": true,
+      "antivideo": false,
+      "antiaudio": true,
+      "antisticker": true,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": true,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "!"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": true,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": true,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Seja bem-vindo testa o seu bote free",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": false,
+      "Limit_tempo": "10"
+    }
+  ],
+  [
+    {
+      "name": "• 𝙎𝙪𝙥𝙤𝙧𝙩𝙚 𝑇𝑒𝑑 𝐴𝑃𝐼'𝑠",
+      "groupId": "120363352337396058@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": true,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "GÊNIOS DO RAP GEEK",
+      "groupId": "120363355202607930@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "."
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "AMIGOS",
+      "groupId": "120363355948578227@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "!"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "Geral",
+      "groupId": "120363357679046087@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "V",
+      "groupId": "120363361677559743@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "."
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": true,
+          "legendabv": "Bem vindo Zé ruela\n#data",
+          "legendasaiu": "Bem vindo Zé ruela\n#dota"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true,
+      "isativatexto": false
+    }
+  ],
+  [
+    {
+      "name": "Procura Camaçari (chat) 💭 🔥",
+      "groupId": "120363361733667081@g.us",
+      "x9": true,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": true,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "."
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": true,
+      "jogos": false,
+      "level": true,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true
+    }
+  ],
+  [
+    {
+      "name": "Teste",
+      "groupId": "120363362154207918@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antivideo": false,
+      "antiaudio": false,
+      "antisticker": false,
+      "antidoc": false,
+      "antictt": false,
+      "antiloc": false,
+      "antilinkgp": true,
+      "antilinkhard": true,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "-"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [
+            "_",
+            "_",
+            "_",
+            "_"
+          ],
+          "escreveu": [],
+          "palavra_ofc": "gato",
+          "dica": "ele tem 4 patas, e o rugido dele começa com m 😉",
+          "tema": "animal"
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": true,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "simi2": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": true,
+      "aluguel": false,
+      "antibot": true
+    }
+  ],
+  [
+    {
+      "name": "Hh",
+      "groupId": "120363372071076003@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": true,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "#"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": true,
+          "legendabv": "kkk",
+          "legendasaiu": "kkk"
+        },
+        {
+          "bemvindo2": true,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": true,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true,
+      "isativatexto": false
+    }
+  ],
+  [
+    {
+      "name": ".",
+      "groupId": "120363375206047007@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": true,
+      "antilinkhard": true,
+      "antifake": true,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "."
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": true,
+      "jogos": false,
+      "level": true,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true,
+      "Limitar_CMD": true,
+      "Limit_tempo": "15"
+    }
+  ],
+  [
+    {
+      "name": "3ueu",
+      "groupId": "120363392729257190@g.us",
+      "x9": false,
+      "antiimg": false,
+      "antidoc": false,
+      "antilinkgp": false,
+      "antilinkhard": false,
+      "antifake": false,
+      "antiporn": false,
+      "Odelete": false,
+      "antispam": false,
+      "antinotas": false,
+      "anticatalogo": false,
+      "visuUnica": false,
+      "registrarFIGUS": false,
+      "soadm": false,
+      "listanegra": [],
+      "advertir": [],
+      "prefixos": [
+        "^"
+      ],
+      "advertir2": [],
+      "legenda_estrangeiro": "0",
+      "legenda_documento": "0",
+      "legenda_video": "0",
+      "legenda_imagem": "0",
+      "multiprefix": false,
+      "forca_ofc": [
+        {
+          "acertos": 0,
+          "erros": 0,
+          "palavra": [],
+          "escreveu": [],
+          "palavra_ofc": 0,
+          "dica": 0,
+          "tema": 0
+        }
+      ],
+      "ausentes": [],
+      "forca_inc": false,
+      "antipalavrao": {
+        "active": false,
+        "palavras": []
+      },
+      "limitec": {
+        "active": false,
+        "quantidade": null
+      },
+      "wellcome": [
+        {
+          "bemvindo1": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        },
+        {
+          "bemvindo2": false,
+          "legendabv": "Olá #numerodele#, seja bem vindo (a) ao grupo: #nomedogp#",
+          "legendasaiu": "#numerodele# – Saiu do grupo: #nomedogp#"
+        }
+      ],
+      "simi1": false,
+      "autosticker": false,
+      "autoresposta": false,
+      "jogos": false,
+      "level": false,
+      "bangp": false,
+      "nsfw": false,
+      "aluguel": true,
+      "isativatexto": false,
+      "antivideo": true
+    }
+  ]
+]

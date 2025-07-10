@@ -1,0 +1,56 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "acrcloud": "^1.4.0",
+    "assemblyai": "^2.0.2",
+    "awesome-phonenumber": "^6.11.0",
+    "axios": "^1.10.0",
+    "cfonts": "^2.10.0",
+    "chalk": "^4.1.2",
+    "cheerio": "^1.1.0",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "emoji-api": "^3.0.1",
+    "escape-string-regexp": "^1.0.5",
+    "fake-useragent": "^1.0.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^11.1.0",
+    "https": "^1.0.0",
+    "jsdom": "^24.0.0",
+    "link-preview-js": "^3.1.0",
+    "linkifyjs": "^4.1.0",
+    "megajs": "^1.3.7",
+    "millify": "^6.1.0",
+    "moment-timezone": "^0.5.40",
+    "multistream": "^4.1.0",
+    "node-fetch": "^2.6.7",
+    "node-webpmux": "^3.2.1",
+    "os": "^0.1.2",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "yt-search": "^2.11.0"
+  },
+  "name": "ted-clouudx",
+  "description": "Sempre buscando melhorar, qualquer dúvida entra em contato comigo por meio do WhatsApp: +55 99 99224-1471",
+  "version": "4.2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ulimit -c 0 && bash start.sh sim",
+    "test": "node connect.js"
+  },
+  "repository": {
+    "type": "canal",
+    "url": "https://whatsapp.com/channel/0029VajvIUnLikgCdbIzSm2h"
+  },
+  "keywords": [
+    "bot-baileys"
+  ],
+  "author": "ted-bot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://tedzinho.online"
+  },
+  "homepage": "https://tedzinho.online"
+}
