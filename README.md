@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img title="Dueño" src="https://img.shields.io/badge/Autor-@its.mia.oficial-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Dueño" src="https://img.shields.io/badge/Autor-@mialficial02-orange.svg?style=for-the-badge&logo=github"></a>
 <img title="Versión" src="https://img.shields.io/badge/Versão-4.2.0-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 
